@@ -14,7 +14,7 @@ Dự án này là hệ thống full-stack tập trung vào **Java Backend**, s�
 
 ## Thống Kê Ngôn Ngữ Sử Dụng
 
-![Thống kê ngôn ngữ sử dụng](https://quickchart.io/chart?c={type:'pie',data:{labels:['Java','Spring Boot','Vue 3','PHP'],datasets:[{data:[80,10,5,5]}]}})
+![Thống kê ngôn ngữ sử dụng](https://quickchart.io/chart?c={type:'pie',data:{labels:['Java','Spring Boot','Vue 3','PHP'],datasets:[{data:[50,40,5,5]}]}})
 
 | Ngôn ngữ/Công nghệ | Tỷ lệ sử dụng | Mức độ thành thạo |
 | ------------------ | ------------- | ----------------- |
