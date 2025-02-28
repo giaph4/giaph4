@@ -1,27 +1,49 @@
-# Vue 3 + Vite 🚀
+# Dự Án Đa Nền Tảng: Vue 3 + Vite, Java & PHP 🚀
 
 ![Vue Logo](https://vuejs.org/images/logo.png)  
-Mẫu khởi tạo này giúp bạn nhanh chóng bắt đầu phát triển ứng dụng với **Vue 3** và **Vite**.  
+![Java Logo](https://www.java.com//en/img/java-logo-vert-blk.png)  
+![PHP Logo](https://www.php.net/images/logos/new-php-logo.svg)  
 
-Mẫu sử dụng `<script setup>` SFCs của Vue 3 – hãy xem [tài liệu Script Setup](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) để tìm hiểu thêm.
+Mẫu khởi tạo này giúp bạn phát triển ứng dụng kết hợp **Vue 3 + Vite** cho giao diện, **Java** cho backend, và **PHP** cho các dịch vụ bổ trợ.
 
 ---
 
-## Cài đặt IDE khuyến nghị 🛠️
+## Giới thiệu ✨  
+Dự án này tích hợp:  
+- **Vue 3 + Vite**: Frontend nhanh nhẹn, hiện đại với `<script setup>` SFCs ([tài liệu](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup)).  
+- **Java**: Backend mạnh mẽ với hiệu suất cao.  
+- **PHP**: Xử lý logic phía сервер linh hoạt và đơn giản.  
 
-Để có trải nghiệm tốt nhất, chúng tôi khuyên dùng:  
+---
+
+## Cài đặt IDE khuyến nghị 🛠️  
+
+### Cho Vue 3 + Vite  
 - **[VS Code](https://code.visualstudio.com/)**  
-  + Tiện ích mở rộng: **[Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)** (vui lòng tắt Vetur nếu đã cài).  
-  + Plugin hỗ trợ: **[TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin)**.
+  + **[Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)** (tắt Vetur).  
+  + **[TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin)**.  
+
+### Cho Java  
+- **[IntelliJ IDEA](https://www.jetbrains.com/idea/)** hoặc **[Eclipse](https://www.eclipse.org/)**.  
+
+### Cho PHP  
+- **[PHPStorm](https://www.jetbrains.com/phpstorm/)** hoặc VS Code với **[PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)**.  
 
 ---
 
-## Tính năng nổi bật ✨  
-- ⚡ Tốc độ build cực nhanh với Vite.  
-- 🌟 Hỗ trợ cú pháp `<script setup>` hiện đại.  
-- 🧩 Tích hợp sẵn TypeScript (tùy chọn).  
+## Hướng dẫn cài đặt ⚙️  
 
-## Bắt đầu nhanh ⚙️  
-1. Clone repository:  
-   ```bash  
-   git clone https://github.com/username/repository.git  
+### 1. Frontend (Vue 3 + Vite)  
+```bash  
+git clone https://github.com/username/repository.git  
+cd frontend  
+npm install  
+npm run dev
+
+cd backend/java  
+mvn clean install  
+java -jar target/app.jar
+
+cd services/php  
+composer install  
+php -S localhost:8000  
