@@ -1,7 +1,5 @@
 # Dự Án Full-Stack: Java Backend & Vue 3 (Phụ Trợ)
 
-![Logo Dự Án](https://your-logo-url.com/logo.png)
-
 ## Giới Thiệu
 
 Dự án này là hệ thống full-stack tập trung vào **Java Backend**, sử dụng **Spring Boot** và **Hibernate** để xử lý logic, API, và truy vấn cơ sở dữ liệu. **Vue 3 + Vite** chỉ được dùng như một công cụ giao diện phụ trợ, trong khi **PHP** được tích hợp để hỗ trợ các API bổ sung hoặc xử lý nhanh.
