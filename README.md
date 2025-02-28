@@ -1,5 +1,6 @@
 # Dự Án Full-Stack: Java Backend & Vue 3 (Phụ Trợ)
 
+![Logo Dự Án](https://your-logo-url.com/logo.png)
 
 ## Giới Thiệu
 
@@ -14,14 +15,14 @@ Dự án này là hệ thống full-stack tập trung vào **Java Backend**, s�
 
 ## Thống Kê Ngôn Ngữ Sử Dụng
 
-![Thống kê ngôn ngữ sử dụng](https://quickchart.io/chart?c={type:'pie',data:{labels:['Java','Spring Boot','Vue 3','PHP'],datasets:[{data:[50,40,5,5]}]}})
 
-| Ngôn ngữ/Công nghệ | Tỷ lệ sử dụng | Mức độ thành thạo |
-| ------------------ | ------------- | ----------------- |
-| **Java**           | 50%           | Tốt               |
-| **Spring Boot**    | 40%           | Tốt               |
-| **Vue 3**          | 5%            | Cơ bản            |
-| **PHP**            | 5%            | Cơ bản            |
+
+| Ngôn ngữ/Công nghệ | Logo | Tỷ lệ sử dụng | Mức độ thành thạo |
+| ------------------ | ---- | ------------- | ----------------- |
+| **Java**           | ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) | 50% | Tốt |
+| **Spring Boot**    | ![Spring Boot](https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg) | 40% | Tốt |
+| **Vue 3**          | ![Vue 3](https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg) | 5% | Cơ bản |
+| **PHP**            | ![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg) | 5% | Cơ bản |
 
 ## Công Nghệ & Công Cụ
 
@@ -54,6 +55,5 @@ CREATE DATABASE project_db;
 
 ## Liên Hệ
 
-- **GitHub**: [github.com/username](https://github.com/giaph4)
-- **Email**: [user@example.com](phohuynh1503@gmail.com)
-
+- **GitHub**: [https://github.com/giaph4](https://github.com/giaph4)
+- **Email**: phohuynh1503@gmail.com
